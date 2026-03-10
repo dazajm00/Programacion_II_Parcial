@@ -2,7 +2,7 @@
 ## Juan Manuel Daza 
 
 ### Diagrama de clases 
-classDiagrama
+
     class Libro {
         -String titulo
         -String autor
